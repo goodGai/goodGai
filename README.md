@@ -1,6 +1,4 @@
-### 嗨喽 👾
+### 嗨喽 👾 [![goodGai](https://github-readme-stats.vercel.app/api?username=goodGai)](https://github.com/anuraghazra/github-readme-stats)
 这里是一个前端开发者的仓库
 
 写点啥呢、能坚持多久呢、谁知道呢，就这样吧！
-
-[![goodGai](https://github-readme-stats.vercel.app/api?username=goodGai)](https://github.com/anuraghazra/github-readme-stats)
