@@ -1,5 +1,3 @@
-### goodGai
-
 Frontend.
 
 Tinkerer. Lazy. 
